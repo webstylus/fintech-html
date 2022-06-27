@@ -1,0 +1,36 @@
+.bg {
+    background-image: linear-gradient(195.22deg, #F784DD 19.5%, rgba(53, 182, 255, 0.58) 81.29%);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.signin {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-signin {
+    max-width: 330px;
+}
+
+.form-signin form {
+    margin-top: 58px;
+}
+
+.form-signin form>div {
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 58px;
+}
+
+.theme-gradient {
+    background: linear-gradient(222.83deg, #8D5BDE 39.86%, rgba(42, 154, 217, 0.58) 69.93%);
+    border-radius: 20px;
+}
+
+.bg-theme {
+    background-color: #F784DD;
+    box-shadow: rgba(42, 154, 217, 0.1) 1px 1px 10px 5px;
+}
